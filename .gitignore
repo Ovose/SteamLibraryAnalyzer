@@ -1,0 +1,4 @@
+Steam_Analysis.xlsx
+steam_store_cache.json
+*.xlsx
+.env
